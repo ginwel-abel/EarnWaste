@@ -12,7 +12,7 @@ This platform serves as a hub for exploring profitable ventures in waste managem
 
 Created by **Kimberly Villareal, Dewey Mandac, and Ginwel Abel**, third-year BSIT students in 2023, this platform aims to enhance knowledge and skills in utilizing CSS and HTML effectively. Currently, it is in its initial phase as part of a project for the E-Business and E-Commerce subject. While it is not yet fully developed, the platform represents an effort to apply their learning in web development and design to practical scenarios. The creators are focused on refining its functionality and exploring further enhancements to ensure it serves its purpose well.
 
-**This repository file/code is sourced from the website created by my friend, Kimberly Villareal, accessible at kimbvill.github.io/EarnWaste.** The website, titled "Earn Waste," serves as a resource platform focused on waste management and sustainable practices. The repository includes foundational codes and elements that aim to demonstrate eco-friendly methods for turning waste into profitable ventures.
+**This repository file/code is sourced from the website created by my friend, Kimberly Villareal, accessible at (kimbvill.github.io/EarnWaste.)** The website, titled "Earn Waste," serves as a resource platform focused on waste management and sustainable practices. The repository includes foundational codes and elements that aim to demonstrate eco-friendly methods for turning waste into profitable ventures.
 
 **Thank you! God bless.**
 
