@@ -1,0 +1,1 @@
+chrome-extension://lgblnfidahcdcjddiepkckcfdhpknnjh/common/platform/browser-info.js
